@@ -1,0 +1,15 @@
+return {
+	PLUGIN_DESC = "Information about current droprate, talent rate, eperience rate, quest-talent rate and quest-experience-talent rate",
+	WRITTEN_BY = "Written by:",
+	TRANSLATED_BY ="Translated by:",
+	TRANSLATOR = "Amurilon",
+	VERSION = "Version:",
+	DROPRATE = "Show "..TEXT("SYS_WEAREQTYPE_35"),
+	TALENT = "Show "..TEXT("SYS_WEAREQTYPE_175"),
+	EXPERIENCE = "Show "..TEXT("SYS_WEAREQTYPE_34"),
+	QUESTTALENT = "Show "..TEXT("SYS_WEAREQTYPE_213"),
+	QUESTEXPERIENCETALENT = "Show "..TEXT("SYS_WEAREQTYPE_212"),
+	EQUIPMENT = "Equipment",
+	BUFFS = "Buffs",
+	MISC = "Miscellaneous",
+}
